@@ -1,6 +1,7 @@
 {
   "name": "root",
-  "private": true,
+  "version": "0.1",
+  "private": false,
   "scripts": {
     "bootstrap": "lerna bootstrap",
     "ci": "npm run lint && npm run test",
